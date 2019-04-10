@@ -1,0 +1,8 @@
+Origin: Ryan7331 Repo
+Label: Ryan7331 Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A repository hosted by magical, rainbow unicorns!
